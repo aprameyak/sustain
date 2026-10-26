@@ -1,5 +1,3 @@
-This project now lives in [osshealth/sustain](https://github.com/aprameyak/osshealth/tree/master/sustain).
-
 # Sustain
 
 Monitor open source project health and maintainer wellbeing.
